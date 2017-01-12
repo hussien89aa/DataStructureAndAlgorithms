@@ -7,4 +7,4 @@ In this course you will learn how to Analysis algorithms like Sorting, Searching
 We will discus code complexity in Different algorithms like Sorting algorithms ( Bubble, Merge, Heap, and quick sort) , searching algorithms ( Binary search, linear search, and Interpolation), Graph algorithms( Binary tree, DFS, BFS, Nearest Neighbor and Shortest path, Dijkstra's Algorithm, and A* Algorithm). and Data Structure like Dynamic Array, Linked List, Stack, Queue, and Hash-Table
 
 
-![main](http://attach.alruabye.net/attach/dsa/dsa.jpg)
+![main](http://attach.alruabye.net/dsa/dsa.jpg)

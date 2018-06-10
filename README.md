@@ -1,6 +1,6 @@
-## snapped code for Data Structure and Algorithms Analysis - Job Interview  PlayList in Udemy, check the videos Tutorial  [here](https://www.udemy.com/data-structure-and-algorithms-analysis/)
+## Snapped code for Data Structure and Algorithms Analysis - Job Interview  PlayList in Udemy, check the videos Tutorial  [here](https://www.udemy.com/data-structure-and-algorithms-analysis/?couponCode=DISCOUNTGITHUB)
 
- ##Course Description
+ ## Course Description
 
 In this course you will learn how to Analysis algorithms like Sorting, Searching,  and Graph algorithms. And how to reduce the code complexity from one Big-O  level to another level. Furthermore, you will learn different type of Data Structure for your code. Also you will learn how to find Big-O for every data structure, and how to apply  correct Data Structure to your problem in Java. By the end you will be able to write code that run faster and use low memory. You Also will learn  how to analysis problems using Dynamic programming. 
 

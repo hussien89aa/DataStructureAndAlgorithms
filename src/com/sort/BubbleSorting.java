@@ -9,9 +9,10 @@ public class BubbleSorting {
 			for(int j=1;j<(n-i);j++){
 				
 				if(arr[j-1]>arr[j]){
-					temp=arr[j-1];
-					arr[j-1]=arr[j];
-					arr[j]= temp;
+					//fast swap
+					arr[j-1] ^= arr[j];
+					arr[j] ^= arr[j-1];
+					arr[j-1] ^= arr[j];
 				}
 			}
 	}

@@ -1,4 +1,4 @@
-## Snapped code for Data Structure and Algorithms Analysis - Job Interview  PlayList in Udemy, check the videos Tutorial  [here](https://www.udemy.com/data-structure-and-algorithms-analysis/?couponCode=DISCOUNTGITHUB)
+## Snapped code for Data Structure and Algorithms Analysis - Job Interview  PlayList in Udemy, Enroll using a [ 95% discount coupon](https://www.udemy.com/course/data-structure-and-algorithms-analysis/?referralCode=D1C3669A1F5ACB502F67). 
 
  ## Course Description
 

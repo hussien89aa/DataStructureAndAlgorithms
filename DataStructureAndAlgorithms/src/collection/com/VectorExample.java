@@ -1,21 +1,18 @@
 package collection.com;
-
 import java.util.*;
-
+import java.util.Scanner; 
 public class VectorExample {
-
-   public static void main(String args[]) {
-      /* Vector of initial capacity(size) of 2 */
+      public static void main(String args[]) {
       Vector<String> vec = new Vector<String>(2);
 
       /* Adding elements to a vector*/
       vec.addElement("Apple");
       vec.addElement("Orange");
-      vec.addElement("Mango");
-      vec.addElement("Fig");
+      vec.addElement("kivi");
+      vec.addElement("banana");
 
-      /* check size and capacityIncrement*/
-      System.out.println("Size is: "+vec.size());
+      
+      System.out.println("Size is:"+vec.size());
       System.out.println("Default capacity increment is: "+vec.capacity());
 
       vec.addElement("fruit1");
@@ -28,9 +25,9 @@ public class VectorExample {
 
       /*Display Vector elements*/
       Enumeration en = vec.elements();
-      System.out.println("\nElements are:");
+      System.out.println("Elements are:");
       while(en.hasMoreElements())
-         System.out.print(en.nextElement() + " ");
+         System.out.println(en.nextElement() + " ");
    }
    Vector<String> vectask = new Vector<String>(2);
 
